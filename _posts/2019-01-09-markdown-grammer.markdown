@@ -3,7 +3,7 @@ layout: post
 title:  "Markdown 문법"
 date:   2019-01-09 13:46:00
 author: JackBan
-categories: useful
+categories: Dummy
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---
