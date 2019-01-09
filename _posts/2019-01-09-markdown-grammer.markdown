@@ -5,7 +5,7 @@ date:   2019-01-09 13:46:00
 author: JackBan
 categories: Dummy
 tags:	jekyll welcome
-cover:  "/assets/instacode.png"
+cover:  "/assets/every_code.jpg"
 ---
 
 # * 제목 Headers
@@ -40,7 +40,7 @@ h2
 ```
 
 ~~~
-이것은 
+이것은
 코드 블럭
 입니다
 ~~~
@@ -103,7 +103,7 @@ ___
 * list item 1
     * list item 1-1
     * list item 1-2
-    
+
 + list item 1
     + list item 1-1
     + list item 1-2
