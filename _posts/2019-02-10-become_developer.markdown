@@ -5,7 +5,7 @@ date:   2019-02-10 22:15:00
 author: E-Nani
 categories: FrontEnd
 tags:	FrontEnd,Developer
-cover:  "/assets/every_code.jpg"
+cover:  "/assets/20190210_post.jpg"
 ---
 
 ### 비전공자가 프론트엔드 개발자로 전향한 이유
