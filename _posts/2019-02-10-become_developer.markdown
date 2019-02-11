@@ -4,7 +4,7 @@ title:  "비전공자가 프론트엔드 개발자로 전향한 이유"
 date:   2019-02-10 22:15:00
 author: E-Nani
 categories: FrontEnd
-tags:	FrontEnd, Developer
+tags:	FrontEnd, Developer, 비전공자, 프론트엔드
 cover:  "/assets/20190210_post.jpg"
 ---
 
